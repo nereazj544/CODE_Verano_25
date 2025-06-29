@@ -2,6 +2,8 @@
 
 //TODO: 1 . Diferencias enre WriteLine y Wirte
 
+using System.Numerics;
+
 Console.WriteLine("¡Hola, Mundo!");
 Console.WriteLine("C# es un lenguaje de programación orientado a objetos.");
 Console.Write("SIN ENTER AL FINAL");
@@ -99,36 +101,36 @@ Console.WriteLine(lenguajes_2[2]); // 2: JAVA
 Console.WriteLine(lenguajes_2[3]); // 3: HTML
 Console.WriteLine(lenguajes_2[4]); // 4: CSS
 
-int[] enteros = { 1, 2, 3};
-Console.WriteLine("Array de enteros (Original):" + enteros[0] + ", " + enteros[1]+ ", " + enteros[2]);
+int[] enteros = { 1, 2, 3 };
+Console.WriteLine("Array de enteros (Original):" + enteros[0] + ", " + enteros[1] + ", " + enteros[2]);
 
-Console.WriteLine("¿Existe el elemento: 10?" + Array.IndexOf(enteros, 10)); 
+Console.WriteLine("¿Existe el elemento: 10?" + Array.IndexOf(enteros, 10));
 // Comprobar si existe el elemento 10 en el array
-Console.WriteLine("¿Existe el elemento: 2? " + Array.IndexOf(enteros, 2)); 
+Console.WriteLine("¿Existe el elemento: 2? " + Array.IndexOf(enteros, 2));
 // Comprobar si existe el elemento 2 en el array
 
 enteros[2] = 80; //cambiar valor de la posicion 9 del array
 
-Console.WriteLine("Array de enteros:" + enteros[0]+ ", " + enteros[1]+ ", " + enteros[2]);
+Console.WriteLine("Array de enteros:" + enteros[0] + ", " + enteros[1] + ", " + enteros[2]);
 Array.Sort(enteros);
 Console.WriteLine("Array de enteros (Ordenado):" + enteros[0] + ", " + enteros[1] + ", " + enteros[2]);
 Array.Reverse(enteros);
-Console.WriteLine("Array de enteros (Invertido):" + enteros[0] +", "+ enteros[1] + ", " + enteros[2]);
+Console.WriteLine("Array de enteros (Invertido):" + enteros[0] + ", " + enteros[1] + ", " + enteros[2]);
 
 // TODO: LISTAS
-List<int> numerosList = new List<int> { 1, 2, 3};
+List<int> numerosList = new List<int> { 1, 2, 3 };
 numerosList.Add(5); // Añadir
-List <string> textoList = new List<string> { "hola", "mundo", "dksa" };
+List<string> textoList = new List<string> { "hola", "mundo", "dksa" };
 
 textoList.Remove("hola"); // Elimina el elemento que se especifique por parametro
-Console.WriteLine("Numero de elementos en la lista: " + numerosList.Count); 
+Console.WriteLine("Numero de elementos en la lista: " + numerosList.Count);
 //cuenta los elementos de la lista
 
 numerosList.RemoveAt(2); //Elimina el indice que se expecifique por parametro
 
-List<List<int>> listaDeListas = new List<List<int>> 
+List<List<int>> listaDeListas = new List<List<int>>
 { new List<int> { 1,2,3}, new List<int> { 23, 80, 90} }; //Lista de listas 
-Console.WriteLine("Lista de listas: " + listaDeListas[0][0] + 
+Console.WriteLine("Lista de listas: " + listaDeListas[0][0] +
     ", " + listaDeListas[0][1] + ", " + listaDeListas[0][2]);
 
 //DICCIONARIOS
@@ -158,7 +160,7 @@ if (temp < 0)
     Console.WriteLine("Hace frio, ponte la manta");
 }
 else
-{   
+{
     Console.WriteLine("Hace calor, quitate la manta y tirate a la piscina");
 }
 
@@ -193,7 +195,7 @@ else
 }
 */
 
-switch(lados)
+switch (lados)
 {
     case 3:
         figura = "Triángulo";
@@ -211,5 +213,57 @@ switch(lados)
         figura = "Figura desconocida";
         Console.WriteLine($"La figura con {lados} lados es una {figura}");
         break;
-       
+
 }
+
+// TODO: 7. BUCLES
+
+Console.WriteLine("\n ================= \n");
+bool fin = false; //finalizar el bucle
+
+int contador = 0;
+
+while (!fin)
+{
+    Console.WriteLine($"Iteración número: {contador}");
+
+    contador++; //incrementea el conrador
+
+    // Verificar condición de salida
+    if (contador >= 5)
+    {
+        fin = true;
+        Console.WriteLine("Bucle terminado");
+    }
+   
+}
+
+for (int i = 0; i < 5; i++)
+{
+    Console.WriteLine($"Iteración número: {i}");
+   
+}
+
+List<int> numerosList_2 = new List<int>() { 1, 2, 3 };
+foreach (var item in numerosList_2)
+{
+    Console.WriteLine($"Numero: {item}" );
+}
+
+
+do
+{
+   int contador_2 = 0;
+    Console.WriteLine($"Iteración número: {contador_2}");
+
+    contador_2++; //incrementea el conrador
+
+    // Verificar condición de salida
+    if (contador_2 >= 5)
+    {
+        fin = true;
+        Console.WriteLine("Bucle terminado");
+    }
+
+} while (!fin);
+

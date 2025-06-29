@@ -1,0 +1,15 @@
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Solucion_Calculadora_V1\bin\Debug\net8.0\Solucion_Calculadora_V1.exe
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Solucion_Calculadora_V1\bin\Debug\net8.0\Solucion_Calculadora_V1.deps.json
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Solucion_Calculadora_V1\bin\Debug\net8.0\Solucion_Calculadora_V1.runtimeconfig.json
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Solucion_Calculadora_V1\bin\Debug\net8.0\Solucion_Calculadora_V1.dll
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Solucion_Calculadora_V1\bin\Debug\net8.0\Solucion_Calculadora_V1.pdb
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Solucion_Calculadora_V1\obj\Debug\net8.0\Solucion_Calculadora_V1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Solucion_Calculadora_V1\obj\Debug\net8.0\Solucion_Calculadora_V1.AssemblyInfoInputs.cache
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Solucion_Calculadora_V1\obj\Debug\net8.0\Solucion_Calculadora_V1.AssemblyInfo.cs
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Solucion_Calculadora_V1\obj\Debug\net8.0\Solucion_Calculadora_V1.csproj.CoreCompileInputs.cache
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Solucion_Calculadora_V1\obj\Debug\net8.0\Solucion_Calculadora_V1.sourcelink.json
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Solucion_Calculadora_V1\obj\Debug\net8.0\Solucion_Calculadora_V1.dll
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Solucion_Calculadora_V1\obj\Debug\net8.0\refint\Solucion_Calculadora_V1.dll
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Solucion_Calculadora_V1\obj\Debug\net8.0\Solucion_Calculadora_V1.pdb
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Solucion_Calculadora_V1\obj\Debug\net8.0\Solucion_Calculadora_V1.genruntimeconfig.cache
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Solucion_Calculadora_V1\obj\Debug\net8.0\ref\Solucion_Calculadora_V1.dll
