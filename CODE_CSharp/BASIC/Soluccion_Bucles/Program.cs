@@ -30,6 +30,7 @@ class Program
     {
         bool isCorrect = false;
         Console.WriteLine("Escribe la palabra correcta: ");
+
         do
         {
             string secretWord = Console.ReadLine().ToLower();
@@ -38,7 +39,6 @@ class Program
             {
                 Console.WriteLine($"Tu: {secretWord}");
                 Console.WriteLine($"Yo: ¡Pata de cabra!");
-                Console.WriteLine($"Yo: ¡Pata de cabra!");
                 isCorrect = true;
             }
             else
@@ -46,8 +46,6 @@ class Program
                 Console.WriteLine("Intentalo de nuevo. Escribe la palabra correcta: ");
                 
             }
-
-
 
         } while (!isCorrect);
     }
