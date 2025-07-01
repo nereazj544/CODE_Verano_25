@@ -1,0 +1,15 @@
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Soluccion_Bucles\bin\Debug\net8.0\Soluccion_Bucles.exe
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Soluccion_Bucles\bin\Debug\net8.0\Soluccion_Bucles.deps.json
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Soluccion_Bucles\bin\Debug\net8.0\Soluccion_Bucles.runtimeconfig.json
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Soluccion_Bucles\bin\Debug\net8.0\Soluccion_Bucles.dll
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Soluccion_Bucles\bin\Debug\net8.0\Soluccion_Bucles.pdb
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Soluccion_Bucles\obj\Debug\net8.0\Soluccion_Bucles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Soluccion_Bucles\obj\Debug\net8.0\Soluccion_Bucles.AssemblyInfoInputs.cache
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Soluccion_Bucles\obj\Debug\net8.0\Soluccion_Bucles.AssemblyInfo.cs
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Soluccion_Bucles\obj\Debug\net8.0\Soluccion_Bucles.csproj.CoreCompileInputs.cache
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Soluccion_Bucles\obj\Debug\net8.0\Soluccion_Bucles.sourcelink.json
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Soluccion_Bucles\obj\Debug\net8.0\Soluccion_Bucles.dll
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Soluccion_Bucles\obj\Debug\net8.0\refint\Soluccion_Bucles.dll
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Soluccion_Bucles\obj\Debug\net8.0\Soluccion_Bucles.pdb
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Soluccion_Bucles\obj\Debug\net8.0\Soluccion_Bucles.genruntimeconfig.cache
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Soluccion_Bucles\obj\Debug\net8.0\ref\Soluccion_Bucles.dll
