@@ -171,7 +171,7 @@ Console.WriteLine("\n ================= \n");
 
 Console.WriteLine("¿Que lados tiene tu figura?"); //Solicitar los lados 
 
-int lados = Convert.ToInt32(Console.Read());
+int lados = Convert.ToInt32(Console.ReadLine());
 string figura;
 /*
 if (lados == 3)
@@ -266,4 +266,33 @@ do
     }
 
 } while (!fin);
+
+
+Console.WriteLine("\n Comportamiento de cadenas: \n");
+string texto = "Hola, mundo";
+texto = texto.ToUpper(); //Convierte el texto (completo) a MAYUSCULAS
+Console.WriteLine(texto);
+texto = texto.ToLower(); //Convierte el texto (completo) a minusculas
+Console.WriteLine(texto);
+
+texto = texto.Replace("mundo", "c#"); //Reemplaza una palabra por otra
+Console.WriteLine(texto);
+
+texto = texto.Trim();//Elimina los espacios en blanco al principio y al final del texto
+Console.WriteLine(texto);
+
+texto = texto.TrimEnd(); //Elimina los espacios en blanco al final del texto
+Console.WriteLine(texto);
+texto = texto.TrimStart(); //Elimina los espacios en blanco al principio del texto
+Console.WriteLine(texto);
+string concat_Method = string.Concat("Hola ", "Mundo"); // "Hola Mundo"
+Console.WriteLine(concat_Method);
+string mensaje = string.Format("Hola {0}, tienes {1} años", "Juan", 25);
+// "Hola Juan, tienes 25 años"
+Console.WriteLine(mensaje);
+
+bool resultado_Star = "Hola Mundo".StartsWith("Hola"); // true
+Console.WriteLine(resultado_Star);
+bool resultado_End = "Hola Mundo".EndsWith("Mundo"); // true
+Console.WriteLine(resultado_End);
 
