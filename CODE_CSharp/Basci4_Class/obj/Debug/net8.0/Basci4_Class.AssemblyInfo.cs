@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Basci4_Class")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+412ddc6ee3d8f6a950a251bf90ea64ea5175ae00")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a1c5d705a0578882300ce3fce301fb2ff139005")]
 [assembly: System.Reflection.AssemblyProductAttribute("Basci4_Class")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Basci4_Class")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

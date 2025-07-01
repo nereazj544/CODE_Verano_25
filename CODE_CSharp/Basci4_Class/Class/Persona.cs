@@ -10,7 +10,7 @@ namespace Basci4_Class.Class
 {
     public class Persona  // Esta clase es de tipo PUBLICO porque queresmos que TODAS las clases puedan acceder a ella
     {
-        //PROPIEDADES (ATRIBUTOS)
+        //PROPIEDADES (ATRIBUTOS) Propiedades auto-implementadas
         private string name { get; set; }  //Nombre de la persona que es de tipo STRING y es private.
         private int age { get; set; }   //Edad de la persona que es de tipo INT y es private.
 
