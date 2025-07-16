@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\InterfazUser_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17FEF2B4-9D6E-4045-A138-DC41F03BA3CC}|InterfazUser_1.vbproj|c:\\users\\nzjha\\desktop\\code\\code_verano_25\\code_csharp\\interfazuser_1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{17FEF2B4-9D6E-4045-A138-DC41F03BA3CC}|InterfazUser_1.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\InterfazUser_1\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\InterfazUser_1\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-16T14:19:37.736Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
