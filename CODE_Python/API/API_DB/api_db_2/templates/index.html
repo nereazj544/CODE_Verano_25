@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animal</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+   <h1>Lista de ANIMALES</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Nombre</th>
+                <th>Especie</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for item in items %}
+            <tr>
+                <td>
+                    
+                        {{ item.id }}
+                    
+                </td>
+                <td class="animal-nombre">
+                   
+
+                        {{ item.nombre }}
+                    
+                    {% if item.url_img %}
+                    <span class="img-view">
+                        <img src="{{item.url_img}}" alt="imagen animal: {{item.nombre}}" srcset="">
+                    </span>
+                    {% endif %}
+                </td>
+                <td class="animal-nombre">
+                    {{ item.especie }}
+                    {% if item.url_img %}
+                    <span class="img-view">
+                        <img src="{{item.url_img}}" alt="imagen zona: {{item.nombre}}" srcset="">
+                    </span>
+                    {% endif %}
+                </td>
+
+             
+
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>
