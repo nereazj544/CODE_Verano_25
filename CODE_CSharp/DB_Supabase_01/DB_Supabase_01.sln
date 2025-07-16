@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB_Supabase_01", "DB_Supabase_01.csproj", "{F1D8E8FB-B581-44D6-BF4D-DC716B93B1CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1D8E8FB-B581-44D6-BF4D-DC716B93B1CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1D8E8FB-B581-44D6-BF4D-DC716B93B1CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1D8E8FB-B581-44D6-BF4D-DC716B93B1CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1D8E8FB-B581-44D6-BF4D-DC716B93B1CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF2324A3-6075-4E04-B8D4-37AFC3655643}
+	EndGlobalSection
+EndGlobal
