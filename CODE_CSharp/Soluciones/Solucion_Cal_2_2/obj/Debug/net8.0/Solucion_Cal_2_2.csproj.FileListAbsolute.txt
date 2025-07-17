@@ -1,0 +1,15 @@
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Soluciones\Solucion_Cal_2_2\bin\Debug\net8.0\Solucion_Cal_2_2.exe
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Soluciones\Solucion_Cal_2_2\bin\Debug\net8.0\Solucion_Cal_2_2.deps.json
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Soluciones\Solucion_Cal_2_2\bin\Debug\net8.0\Solucion_Cal_2_2.runtimeconfig.json
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Soluciones\Solucion_Cal_2_2\bin\Debug\net8.0\Solucion_Cal_2_2.dll
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Soluciones\Solucion_Cal_2_2\bin\Debug\net8.0\Solucion_Cal_2_2.pdb
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Soluciones\Solucion_Cal_2_2\obj\Debug\net8.0\Solucion_Cal_2_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Soluciones\Solucion_Cal_2_2\obj\Debug\net8.0\Solucion_Cal_2_2.AssemblyInfoInputs.cache
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Soluciones\Solucion_Cal_2_2\obj\Debug\net8.0\Solucion_Cal_2_2.AssemblyInfo.cs
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Soluciones\Solucion_Cal_2_2\obj\Debug\net8.0\Solucion_Cal_2_2.csproj.CoreCompileInputs.cache
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Soluciones\Solucion_Cal_2_2\obj\Debug\net8.0\Solucion_Cal_2_2.sourcelink.json
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Soluciones\Solucion_Cal_2_2\obj\Debug\net8.0\Solucion_Cal_2_2.dll
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Soluciones\Solucion_Cal_2_2\obj\Debug\net8.0\refint\Solucion_Cal_2_2.dll
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Soluciones\Solucion_Cal_2_2\obj\Debug\net8.0\Solucion_Cal_2_2.pdb
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Soluciones\Solucion_Cal_2_2\obj\Debug\net8.0\Solucion_Cal_2_2.genruntimeconfig.cache
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Soluciones\Solucion_Cal_2_2\obj\Debug\net8.0\ref\Solucion_Cal_2_2.dll
