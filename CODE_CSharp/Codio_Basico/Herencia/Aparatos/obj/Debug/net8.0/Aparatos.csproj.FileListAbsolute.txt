@@ -1,0 +1,15 @@
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Codio_Basico\Herencia\Aparatos\bin\Debug\net8.0\Aparatos.exe
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Codio_Basico\Herencia\Aparatos\bin\Debug\net8.0\Aparatos.deps.json
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Codio_Basico\Herencia\Aparatos\bin\Debug\net8.0\Aparatos.runtimeconfig.json
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Codio_Basico\Herencia\Aparatos\bin\Debug\net8.0\Aparatos.dll
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Codio_Basico\Herencia\Aparatos\bin\Debug\net8.0\Aparatos.pdb
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Codio_Basico\Herencia\Aparatos\obj\Debug\net8.0\Aparatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Codio_Basico\Herencia\Aparatos\obj\Debug\net8.0\Aparatos.AssemblyInfoInputs.cache
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Codio_Basico\Herencia\Aparatos\obj\Debug\net8.0\Aparatos.AssemblyInfo.cs
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Codio_Basico\Herencia\Aparatos\obj\Debug\net8.0\Aparatos.csproj.CoreCompileInputs.cache
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Codio_Basico\Herencia\Aparatos\obj\Debug\net8.0\Aparatos.sourcelink.json
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Codio_Basico\Herencia\Aparatos\obj\Debug\net8.0\Aparatos.dll
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Codio_Basico\Herencia\Aparatos\obj\Debug\net8.0\refint\Aparatos.dll
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Codio_Basico\Herencia\Aparatos\obj\Debug\net8.0\Aparatos.pdb
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Codio_Basico\Herencia\Aparatos\obj\Debug\net8.0\Aparatos.genruntimeconfig.cache
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\Codio_Basico\Herencia\Aparatos\obj\Debug\net8.0\ref\Aparatos.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aparatos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3271cb7eb2ee3dc383072df288c4406b893ba11a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cebf0adaed8d5db6f259614db78f49607fc9e69f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aparatos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aparatos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
