@@ -18,26 +18,16 @@ namespace Aparatos.Clases
         }
 
         public void Encendido ()
-        {
-            On = true;
-        }
+        { On = true; }
         public void Apagado ()
-        {
-            On = false;
-        }
+        { On = false; }
 
         public bool OnEncedido ()
-        {
-            return On;
-        }
+        { return On; }
 
         public void SetTension (int tensiones)
-        {
-            tension = tensiones;
-        }
+        { tension = tensiones; }
         public int GetTension ()
-        {
-            return tension;
-        }
+        { return tension; }
     }
 }

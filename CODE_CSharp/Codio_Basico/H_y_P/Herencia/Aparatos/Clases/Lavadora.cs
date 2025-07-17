@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Aparatos.Clases
 {
+    // La herencia se coloca usando dos puntos (:) después del nombre de la clase
     class Lavadora : Electrodomestico
     {
 
