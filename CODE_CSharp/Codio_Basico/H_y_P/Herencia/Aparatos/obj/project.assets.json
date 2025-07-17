@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Codio_Basico\\Herencia\\Aparatos\\Aparatos.csproj",
+      "projectUniqueName": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Codio_Basico\\H_y_P\\Herencia\\Aparatos\\Aparatos.csproj",
       "projectName": "Aparatos",
-      "projectPath": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Codio_Basico\\Herencia\\Aparatos\\Aparatos.csproj",
+      "projectPath": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Codio_Basico\\H_y_P\\Herencia\\Aparatos\\Aparatos.csproj",
       "packagesPath": "C:\\Users\\nzjha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Codio_Basico\\Herencia\\Aparatos\\obj\\",
+      "outputPath": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Codio_Basico\\H_y_P\\Herencia\\Aparatos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
