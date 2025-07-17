@@ -1,13 +1,15 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Animal</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
+
 <body>
-   <h1>Lista de ANIMALES</h1>
+    <h1>Lista de ANIMALES</h1>
     <table>
         <thead>
             <tr>
@@ -20,15 +22,12 @@
             {% for item in items %}
             <tr>
                 <td>
-                    
-                        {{ item.id }}
-                    
+
+                    {{ item.id }}
+
                 </td>
                 <td class="animal-nombre">
-                   
-
-                        {{ item.nombre }}
-                    
+                    {{ item.nombre }}
                     {% if item.url_img %}
                     <span class="img-view">
                         <img src="{{item.url_img}}" alt="imagen animal: {{item.nombre}}" srcset="">
@@ -44,11 +43,27 @@
                     {% endif %}
                 </td>
 
-             
+
 
             </tr>
             {% endfor %}
         </tbody>
     </table>
+
+    <div class="separador"></div>
+
+    <div class="opcines">
+        <div id="add" class="add">
+            <h2>Agregar Animal</h2>
+            <form action="/add" method="post">
+                <input type="text" name="name" placeholder="Nombre del animal" required>
+                <input type="text" name="specie" placeholder="Especie del animal" required>
+                <input type="url" name="url_img" placeholder="URL de la imagen del ANIMAL" required>
+                <button type="submit">Añadir</button>
+            </form>
+        </div>
+    </div>
+
 </body>
+
 </html>
