@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DB_Supabase_01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+733e601847ce34cdd160638400a66d35de83311b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68806686a9892122f053f9671d68b8d2b6fdd970")]
 [assembly: System.Reflection.AssemblyProductAttribute("DB_Supabase_01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DB_Supabase_01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
