@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Ficheros\\Ficheros_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F70594FC-7B16-4C80-9243-55D3B366EA40}|Ficheros_1.csproj|c:\\users\\nzjha\\desktop\\code\\code_verano_25\\code_csharp\\ficheros\\ficheros_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F70594FC-7B16-4C80-9243-55D3B366EA40}|Ficheros_1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F70594FC-7B16-4C80-9243-55D3B366EA40}|Ficheros_1.csproj|c:\\users\\nzjha\\desktop\\code\\code_verano_25\\code_csharp\\ficheros\\ficheros_1\\res\\file_1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F70594FC-7B16-4C80-9243-55D3B366EA40}|Ficheros_1.csproj|solutionrelative:res\\file_1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "File_1.txt",
+              "DocumentMoniker": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Ficheros\\Ficheros_1\\RES\\File_1.txt",
+              "RelativeDocumentMoniker": "RES\\File_1.txt",
+              "ToolTip": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Ficheros\\Ficheros_1\\RES\\File_1.txt",
+              "RelativeToolTip": "RES\\File_1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-18T11:15:37.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Ficheros\\Ficheros_1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Ficheros\\Ficheros_1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAA0wFcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T10:57:12.803Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
