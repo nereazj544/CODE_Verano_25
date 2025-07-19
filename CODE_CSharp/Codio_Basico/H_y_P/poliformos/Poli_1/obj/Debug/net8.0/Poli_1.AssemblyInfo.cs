@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Poli_1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf1354780a89479d2095152526d7945c7091b5f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3839034ce36cdf040a3e8adaf7e471ad31502202")]
 [assembly: System.Reflection.AssemblyProductAttribute("Poli_1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Poli_1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

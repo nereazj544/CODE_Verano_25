@@ -35,7 +35,8 @@ namespace Poli_1.Class
                 $"\n\t- Direccion: {GetDir()}" +
                 $"\n\t- Telefono: {GetTlf()}" +
                 $"\n\t- Numero de cubiertos: {cubiertos}" +
-                $"\n\t- Hora de abrir: {horaApertura}"
+                $"\n\t- Hora de abrir: {horaApertura}:{minutosAp}" +
+                $"\n\t- Hora de abrir: {horaCerrar}:{minutosCerr}"
                 );
         }
     }

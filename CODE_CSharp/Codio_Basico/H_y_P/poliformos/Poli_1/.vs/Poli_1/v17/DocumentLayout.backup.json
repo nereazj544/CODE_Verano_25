@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{664BC901-070C-4C08-BEB4-4B2BC16D247C}|Poli_1.csproj|solutionrelative:class\\restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{664BC901-070C-4C08-BEB4-4B2BC16D247C}|Poli_1.csproj|c:\\users\\nzjha\\desktop\\code\\code_verano_25\\code_csharp\\codio_basico\\h_y_p\\poliformos\\poli_1\\class\\negocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{664BC901-070C-4C08-BEB4-4B2BC16D247C}|Poli_1.csproj|solutionrelative:class\\negocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{664BC901-070C-4C08-BEB4-4B2BC16D247C}|Poli_1.csproj|c:\\users\\nzjha\\desktop\\code\\code_verano_25\\code_csharp\\codio_basico\\h_y_p\\poliformos\\poli_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664BC901-070C-4C08-BEB4-4B2BC16D247C}|Poli_1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{664BC901-070C-4C08-BEB4-4B2BC16D247C}|Poli_1.csproj|c:\\users\\nzjha\\desktop\\code\\code_verano_25\\code_csharp\\codio_basico\\h_y_p\\poliformos\\poli_1\\class\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{664BC901-070C-4C08-BEB4-4B2BC16D247C}|Poli_1.csproj|solutionrelative:class\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{664BC901-070C-4C08-BEB4-4B2BC16D247C}|Poli_1.csproj|c:\\users\\nzjha\\desktop\\code\\code_verano_25\\code_csharp\\codio_basico\\h_y_p\\poliformos\\poli_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{664BC901-070C-4C08-BEB4-4B2BC16D247C}|Poli_1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{664BC901-070C-4C08-BEB4-4B2BC16D247C}|Poli_1.csproj|c:\\users\\nzjha\\desktop\\code\\code_verano_25\\code_csharp\\codio_basico\\h_y_p\\poliformos\\poli_1\\class\\negocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664BC901-070C-4C08-BEB4-4B2BC16D247C}|Poli_1.csproj|solutionrelative:class\\negocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Class\\Restaurante.cs",
               "ToolTip": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Codio_Basico\\H_y_P\\poliformos\\Poli_1\\Class\\Restaurante.cs",
               "RelativeToolTip": "Class\\Restaurante.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwCcAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAzwCYAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-17T19:18:40.494Z",
               "EditorCaption": ""
@@ -49,14 +49,14 @@
               "RelativeDocumentMoniker": "Class\\Hotel.cs",
               "ToolTip": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Codio_Basico\\H_y_P\\poliformos\\Poli_1\\Class\\Hotel.cs",
               "RelativeToolTip": "Class\\Hotel.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA1wCIAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAA9wCIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-17T19:18:30.126Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Negocio.cs",
               "DocumentMoniker": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Codio_Basico\\H_y_P\\poliformos\\Poli_1\\Class\\Negocio.cs",
               "RelativeDocumentMoniker": "Class\\Negocio.cs",
@@ -64,18 +64,17 @@
               "RelativeToolTip": "Class\\Negocio.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAzwC8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T19:18:24.552Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T19:18:24.552Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Codio_Basico\\H_y_P\\poliformos\\Poli_1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Codio_Basico\\H_y_P\\poliformos\\Poli_1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAywCIAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAywCIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-17T19:17:28.268Z",
               "EditorCaption": ""
