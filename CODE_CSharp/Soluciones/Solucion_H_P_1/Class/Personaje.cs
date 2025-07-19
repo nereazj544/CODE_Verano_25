@@ -13,11 +13,6 @@ namespace Solucion_H_P_1.Class
         protected int pv; //Puntos de Vida
         protected int fuerza; //Fuerza * 2
 
-    
-
-
-        public Personaje ()
-        { }
 
         public Personaje (string name, int lvl, int pv, int strength)
         {

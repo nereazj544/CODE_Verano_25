@@ -14,7 +14,8 @@ class Program
 
     private static void Ej1_Fichero ()
     {
-        string path = "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Ficheros\\Ficheros_1\\RES\\File_1.txt"; // Ruta del fichero a leer
+        string path = "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\" +
+            "CODE_CSharp\\Ficheros\\Ficheros_1\\RES\\File_1.txt"; // Ruta del fichero a leer
 
         try
         {

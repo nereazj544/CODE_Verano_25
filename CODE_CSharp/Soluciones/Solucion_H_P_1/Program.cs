@@ -5,11 +5,11 @@ class Program{
     {
         Guerrero g;
 
+        Console.WriteLine("Nombre del Personaje");
+        string nombre = Console.ReadLine();
         Console.WriteLine("Rol: Mago, Guerrero o Arquero");
         string rol = Console.ReadLine();
         rol = rol.ToUpper();
-        Console.WriteLine("Nombre del Personaje");
-        string nombre = Console.ReadLine();
 
         switch ( rol )
         {
@@ -35,5 +35,11 @@ class Program{
                 Console.WriteLine($"Arquero: {nombre}");
                 break;
         }
+
+        
+
+
     }
+
+
 }
