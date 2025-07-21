@@ -1,4 +1,5 @@
 ﻿using Solucion_H_P_1.Class;
+using Solucion_H_P_1.Class.Roles;
 
 class Program{
     static void Main ()

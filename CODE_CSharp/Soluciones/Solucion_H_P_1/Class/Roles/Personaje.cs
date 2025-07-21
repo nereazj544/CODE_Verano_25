@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Solucion_H_P_1.Class
+namespace Solucion_H_P_1.Class.Roles
 {
     class Personaje
     {

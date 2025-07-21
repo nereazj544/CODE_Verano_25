@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Solucion_H_P_1.Class
+namespace Solucion_H_P_1.Class.Roles
 {
     class Mago : Personaje
     {
@@ -20,9 +20,9 @@ namespace Solucion_H_P_1.Class
         public override int Atacar ()
         {
             if ( mana > 50 )
-            { return ( fuerza * 3 ); }
+            { return  fuerza * 3 ; }
             else
-            { return ( fuerza * 1 ); }
+            { return  fuerza * 1 ; }
         }
     }
 }

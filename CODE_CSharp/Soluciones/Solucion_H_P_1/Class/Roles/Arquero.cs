@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Solucion_H_P_1.Class
+namespace Solucion_H_P_1.Class.Roles
 {
     internal class Arquero : Personaje
     {
@@ -19,7 +19,7 @@ namespace Solucion_H_P_1.Class
 
         public override int Atacar ()
         {
-            return ( fuerza * 2 ) + ( precision / 2 );
+            return  fuerza * 2  +  precision / 2 ;
         }
     }
 }
