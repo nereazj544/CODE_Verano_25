@@ -17,7 +17,7 @@ namespace Solucion_H_P_1.Class.Equipo
             tension = strain;
         }
 
-        public virtual float calcAtaque ()
+        public override float calcAtaque()
         {
             return 8f + (tension * 1.5f);
         }

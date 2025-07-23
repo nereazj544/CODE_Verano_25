@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Soluciones\\Solucion_H_P_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{265E7130-6D2F-449E-9416-BC4ACBD8EE18}|Solucion_H_P_1.csproj|c:\\users\\nzjha\\desktop\\code\\code_verano_25\\code_csharp\\soluciones\\solucion_h_p_1\\class\\equipo\\arco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{265E7130-6D2F-449E-9416-BC4ACBD8EE18}|Solucion_H_P_1.csproj|solutionrelative:class\\equipo\\arco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{265E7130-6D2F-449E-9416-BC4ACBD8EE18}|Solucion_H_P_1.csproj|c:\\users\\nzjha\\desktop\\code\\code_verano_25\\code_csharp\\soluciones\\solucion_h_p_1\\class\\equipo\\baston.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{265E7130-6D2F-449E-9416-BC4ACBD8EE18}|Solucion_H_P_1.csproj|solutionrelative:class\\equipo\\baston.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{265E7130-6D2F-449E-9416-BC4ACBD8EE18}|Solucion_H_P_1.csproj|c:\\users\\nzjha\\desktop\\code\\code_verano_25\\code_csharp\\soluciones\\solucion_h_p_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265E7130-6D2F-449E-9416-BC4ACBD8EE18}|Solucion_H_P_1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{265E7130-6D2F-449E-9416-BC4ACBD8EE18}|Solucion_H_P_1.csproj|c:\\users\\nzjha\\desktop\\code\\code_verano_25\\code_csharp\\soluciones\\solucion_h_p_1\\class\\roles\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{265E7130-6D2F-449E-9416-BC4ACBD8EE18}|Solucion_H_P_1.csproj|solutionrelative:class\\roles\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{265E7130-6D2F-449E-9416-BC4ACBD8EE18}|Solucion_H_P_1.csproj|c:\\users\\nzjha\\desktop\\code\\code_verano_25\\code_csharp\\soluciones\\solucion_h_p_1\\class\\roles\\arquero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{265E7130-6D2F-449E-9416-BC4ACBD8EE18}|Solucion_H_P_1.csproj|solutionrelative:class\\roles\\arquero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{265E7130-6D2F-449E-9416-BC4ACBD8EE18}|Solucion_H_P_1.csproj|c:\\users\\nzjha\\desktop\\code\\code_verano_25\\code_csharp\\soluciones\\solucion_h_p_1\\class\\combate\\arena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265E7130-6D2F-449E-9416-BC4ACBD8EE18}|Solucion_H_P_1.csproj|solutionrelative:class\\combate\\arena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{265E7130-6D2F-449E-9416-BC4ACBD8EE18}|Solucion_H_P_1.csproj|c:\\users\\nzjha\\desktop\\code\\code_verano_25\\code_csharp\\soluciones\\solucion_h_p_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{265E7130-6D2F-449E-9416-BC4ACBD8EE18}|Solucion_H_P_1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{265E7130-6D2F-449E-9416-BC4ACBD8EE18}|Solucion_H_P_1.csproj|c:\\users\\nzjha\\desktop\\code\\code_verano_25\\code_csharp\\soluciones\\solucion_h_p_1\\class\\equipo\\arco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265E7130-6D2F-449E-9416-BC4ACBD8EE18}|Solucion_H_P_1.csproj|solutionrelative:class\\equipo\\arco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265E7130-6D2F-449E-9416-BC4ACBD8EE18}|Solucion_H_P_1.csproj|c:\\users\\nzjha\\desktop\\code\\code_verano_25\\code_csharp\\soluciones\\solucion_h_p_1\\class\\equipo\\baston.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265E7130-6D2F-449E-9416-BC4ACBD8EE18}|Solucion_H_P_1.csproj|solutionrelative:class\\equipo\\baston.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,6 +35,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Soluciones\\Solucion_H_P_1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Soluciones\\Solucion_H_P_1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T15:05:46.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Personaje.cs",
+              "DocumentMoniker": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Soluciones\\Solucion_H_P_1\\Class\\Roles\\Personaje.cs",
+              "RelativeDocumentMoniker": "Class\\Roles\\Personaje.cs",
+              "ToolTip": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Soluciones\\Solucion_H_P_1\\Class\\Roles\\Personaje.cs",
+              "RelativeToolTip": "Class\\Roles\\Personaje.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAA0wC4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T15:02:02.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Arena.cs",
+              "DocumentMoniker": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Soluciones\\Solucion_H_P_1\\Class\\Combate\\Arena.cs",
+              "RelativeDocumentMoniker": "Class\\Combate\\Arena.cs",
+              "ToolTip": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Soluciones\\Solucion_H_P_1\\Class\\Combate\\Arena.cs",
+              "RelativeToolTip": "Class\\Combate\\Arena.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T14:59:55.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Arco.cs",
               "DocumentMoniker": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Soluciones\\Solucion_H_P_1\\Class\\Equipo\\Arco.cs",
               "RelativeDocumentMoniker": "Class\\Equipo\\Arco.cs",
@@ -47,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Baston.cs",
               "DocumentMoniker": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Soluciones\\Solucion_H_P_1\\Class\\Equipo\\Baston.cs",
               "RelativeDocumentMoniker": "Class\\Equipo\\Baston.cs",
@@ -55,53 +94,7 @@
               "RelativeToolTip": "Class\\Equipo\\Baston.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAADwvwoAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T17:45:18.546Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 156,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Personaje.cs",
-              "DocumentMoniker": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Soluciones\\Solucion_H_P_1\\Class\\Roles\\Personaje.cs",
-              "RelativeDocumentMoniker": "Class\\Roles\\Personaje.cs",
-              "ToolTip": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Soluciones\\Solucion_H_P_1\\Class\\Roles\\Personaje.cs",
-              "RelativeToolTip": "Class\\Roles\\Personaje.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T17:42:59.869Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Soluciones\\Solucion_H_P_1\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Soluciones\\Solucion_H_P_1\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAswDkAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T17:41:39.289Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Arquero.cs",
-              "DocumentMoniker": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Soluciones\\Solucion_H_P_1\\Class\\Roles\\Arquero.cs",
-              "RelativeDocumentMoniker": "Class\\Roles\\Arquero.cs",
-              "ToolTip": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Soluciones\\Solucion_H_P_1\\Class\\Roles\\Arquero.cs",
-              "RelativeToolTip": "Class\\Roles\\Arquero.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA1wBUAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T17:27:11.155Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-21T17:45:18.546Z"
             }
           ]
         }

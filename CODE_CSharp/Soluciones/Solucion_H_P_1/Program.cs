@@ -1,9 +1,11 @@
 ﻿using Solucion_H_P_1.Class;
+using Solucion_H_P_1.Class.Combate;
 using Solucion_H_P_1.Class.Roles;
 
 class Program{
     static void Main ()
     {
+      
         Personaje chara;
 
         Console.WriteLine("Nombre del Personaje");
@@ -81,7 +83,7 @@ class Program{
         }
 
         
-
+       
 
     }
 
