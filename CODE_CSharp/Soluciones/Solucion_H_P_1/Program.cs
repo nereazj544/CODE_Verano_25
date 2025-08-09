@@ -2,27 +2,28 @@
 using Solucion_H_P_1.Class.Combate;
 using Solucion_H_P_1.Class.Roles;
 
-class Program{
+class Program
+{
     static void Main ()
     {
-      
+
         Personaje chara;
 
-        Console.WriteLine("Nombre del Personaje");
+        Console.WriteLine( "Nombre del Personaje" );
         string nombre = Console.ReadLine();
-        Console.WriteLine("Rol: Mago, Guerrero o Arquero");
+        Console.WriteLine( "Rol: Mago, Guerrero o Arquero" );
         string rol = Console.ReadLine();
         // rol = rol.ToUpper();
 
         if ( !string.IsNullOrEmpty( rol ) )
         {
-            rol = char.ToUpper( rol[0] ) + rol.Substring( 1 ).ToLower(); //Capitaliza la primera letra
+            rol = char.ToUpper( rol [0] ) + rol.Substring( 1 ).ToLower(); //Capitaliza la primera letra
         }
 
         switch ( rol )
         {
             case "Guerrero":
-                Console.Write($"Guerrero: {nombre} \n" );
+                Console.Write( $"Guerrero: {nombre} \n" );
                 Console.Write( "Nivel: " );
                 int nv_g = int.Parse( Console.ReadLine() );
                 Console.Write( "Puntos de vida: " );
@@ -41,8 +42,8 @@ class Program{
                 break;
 
             case "Mago":
-                Console.WriteLine($"Mago: {nombre}");
-                
+                Console.WriteLine( $"Mago: {nombre}" );
+
                 Console.Write( "Nivel: " );
                 int nv_m = int.Parse( Console.ReadLine() );
                 Console.Write( "Puntos de vida: " );
@@ -51,7 +52,7 @@ class Program{
                 int fuerza_m = int.Parse( Console.ReadLine() );
                 Console.Write( "mana: " );
                 int mana = int.Parse( Console.ReadLine() );
-                chara = new Mago( nombre,pv_m, nv_m, fuerza_m, mana);
+                chara = new Mago( nombre, pv_m, nv_m, fuerza_m, mana );
                 Console.WriteLine( $"Estadísticas del Mago {nombre}:" +
                      $"\n\t- Nivel: {nv_m}" +
                      $"\n\t- Puntos de Vida: {pv_m}" +
@@ -60,7 +61,7 @@ class Program{
                 break;
 
             case "Arquero":
-                Console.Write($"Arquero: {nombre}");
+                Console.Write( $"Arquero: {nombre}" );
                 Console.Write( "Nivel: " );
                 int nv_a = int.Parse( Console.ReadLine() );
                 Console.Write( "Puntos de vida:  " );
@@ -78,12 +79,12 @@ class Program{
                 break;
 
             default:
-                Console.WriteLine("Rol desconocido.");
+                Console.WriteLine( "Rol desconocido." );
                 break;
         }
 
-        
-       
+
+
 
     }
 

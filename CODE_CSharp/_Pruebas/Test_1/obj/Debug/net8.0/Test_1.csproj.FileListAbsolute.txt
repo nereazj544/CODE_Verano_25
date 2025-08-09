@@ -1,0 +1,15 @@
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\_Pruebas\Test_1\bin\Debug\net8.0\Test_1.exe
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\_Pruebas\Test_1\bin\Debug\net8.0\Test_1.deps.json
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\_Pruebas\Test_1\bin\Debug\net8.0\Test_1.runtimeconfig.json
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\_Pruebas\Test_1\bin\Debug\net8.0\Test_1.dll
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\_Pruebas\Test_1\bin\Debug\net8.0\Test_1.pdb
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\_Pruebas\Test_1\obj\Debug\net8.0\Test_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\_Pruebas\Test_1\obj\Debug\net8.0\Test_1.AssemblyInfoInputs.cache
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\_Pruebas\Test_1\obj\Debug\net8.0\Test_1.AssemblyInfo.cs
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\_Pruebas\Test_1\obj\Debug\net8.0\Test_1.csproj.CoreCompileInputs.cache
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\_Pruebas\Test_1\obj\Debug\net8.0\Test_1.sourcelink.json
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\_Pruebas\Test_1\obj\Debug\net8.0\Test_1.dll
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\_Pruebas\Test_1\obj\Debug\net8.0\refint\Test_1.dll
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\_Pruebas\Test_1\obj\Debug\net8.0\Test_1.pdb
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\_Pruebas\Test_1\obj\Debug\net8.0\Test_1.genruntimeconfig.cache
+C:\Users\nzjha\Desktop\CODE\CODE_Verano_25\CODE_CSharp\_Pruebas\Test_1\obj\Debug\net8.0\ref\Test_1.dll
