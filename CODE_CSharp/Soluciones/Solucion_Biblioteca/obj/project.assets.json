@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Solucion_Biblioteca\\Solucion_Biblioteca.csproj",
+      "projectUniqueName": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Soluciones\\Solucion_Biblioteca\\Solucion_Biblioteca.csproj",
       "projectName": "Solucion_Biblioteca",
-      "projectPath": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Solucion_Biblioteca\\Solucion_Biblioteca.csproj",
+      "projectPath": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Soluciones\\Solucion_Biblioteca\\Solucion_Biblioteca.csproj",
       "packagesPath": "C:\\Users\\nzjha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Solucion_Biblioteca\\obj\\",
+      "outputPath": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Soluciones\\Solucion_Biblioteca\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Soluciones\\Solucion_H_P_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{265E7130-6D2F-449E-9416-BC4ACBD8EE18}|Solucion_H_P_1.csproj|c:\\users\\nzjha\\desktop\\code\\code_verano_25\\code_csharp\\soluciones\\solucion_h_p_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{265E7130-6D2F-449E-9416-BC4ACBD8EE18}|Solucion_H_P_1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{265E7130-6D2F-449E-9416-BC4ACBD8EE18}|Solucion_H_P_1.csproj|c:\\users\\nzjha\\desktop\\code\\code_verano_25\\code_csharp\\soluciones\\solucion_h_p_1\\class\\equipo\\baston.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265E7130-6D2F-449E-9416-BC4ACBD8EE18}|Solucion_H_P_1.csproj|solutionrelative:class\\equipo\\baston.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265E7130-6D2F-449E-9416-BC4ACBD8EE18}|Solucion_H_P_1.csproj|c:\\users\\nzjha\\desktop\\code\\code_verano_25\\code_csharp\\soluciones\\solucion_h_p_1\\class\\equipo\\arma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265E7130-6D2F-449E-9416-BC4ACBD8EE18}|Solucion_H_P_1.csproj|solutionrelative:class\\equipo\\arma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{265E7130-6D2F-449E-9416-BC4ACBD8EE18}|Solucion_H_P_1.csproj|c:\\users\\nzjha\\desktop\\code\\code_verano_25\\code_csharp\\soluciones\\solucion_h_p_1\\class\\roles\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{265E7130-6D2F-449E-9416-BC4ACBD8EE18}|Solucion_H_P_1.csproj|solutionrelative:class\\roles\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{265E7130-6D2F-449E-9416-BC4ACBD8EE18}|Solucion_H_P_1.csproj|c:\\users\\nzjha\\desktop\\code\\code_verano_25\\code_csharp\\soluciones\\solucion_h_p_1\\class\\combate\\arena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{265E7130-6D2F-449E-9416-BC4ACBD8EE18}|Solucion_H_P_1.csproj|solutionrelative:class\\combate\\arena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{265E7130-6D2F-449E-9416-BC4ACBD8EE18}|Solucion_H_P_1.csproj|c:\\users\\nzjha\\desktop\\code\\code_verano_25\\code_csharp\\soluciones\\solucion_h_p_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265E7130-6D2F-449E-9416-BC4ACBD8EE18}|Solucion_H_P_1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{265E7130-6D2F-449E-9416-BC4ACBD8EE18}|Solucion_H_P_1.csproj|c:\\users\\nzjha\\desktop\\code\\code_verano_25\\code_csharp\\soluciones\\solucion_h_p_1\\class\\equipo\\arco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{265E7130-6D2F-449E-9416-BC4ACBD8EE18}|Solucion_H_P_1.csproj|solutionrelative:class\\equipo\\arco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{265E7130-6D2F-449E-9416-BC4ACBD8EE18}|Solucion_H_P_1.csproj|c:\\users\\nzjha\\desktop\\code\\code_verano_25\\code_csharp\\soluciones\\solucion_h_p_1\\class\\equipo\\baston.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{265E7130-6D2F-449E-9416-BC4ACBD8EE18}|Solucion_H_P_1.csproj|solutionrelative:class\\equipo\\baston.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,48 +30,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 244,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Arma.cs",
+              "DocumentMoniker": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Soluciones\\Solucion_H_P_1\\Class\\Equipo\\Arma.cs",
+              "RelativeDocumentMoniker": "Class\\Equipo\\Arma.cs",
+              "ToolTip": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Soluciones\\Solucion_H_P_1\\Class\\Equipo\\Arma.cs",
+              "RelativeToolTip": "Class\\Equipo\\Arma.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA+wB4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T11:57:43.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Soluciones\\Solucion_H_P_1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Soluciones\\Solucion_H_P_1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAADwv1gAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAswFgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T15:05:46.121Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Personaje.cs",
               "DocumentMoniker": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Soluciones\\Solucion_H_P_1\\Class\\Roles\\Personaje.cs",
               "RelativeDocumentMoniker": "Class\\Roles\\Personaje.cs",
               "ToolTip": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Soluciones\\Solucion_H_P_1\\Class\\Roles\\Personaje.cs",
               "RelativeToolTip": "Class\\Roles\\Personaje.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAA0wC4AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswC4AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T15:02:02.252Z"
+              "WhenOpened": "2025-07-23T15:02:02.252Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Arena.cs",
-              "DocumentMoniker": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Soluciones\\Solucion_H_P_1\\Class\\Combate\\Arena.cs",
-              "RelativeDocumentMoniker": "Class\\Combate\\Arena.cs",
-              "ToolTip": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Soluciones\\Solucion_H_P_1\\Class\\Combate\\Arena.cs",
-              "RelativeToolTip": "Class\\Combate\\Arena.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T14:59:55.296Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Arco.cs",
               "DocumentMoniker": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Soluciones\\Solucion_H_P_1\\Class\\Equipo\\Arco.cs",
               "RelativeDocumentMoniker": "Class\\Equipo\\Arco.cs",
@@ -83,15 +85,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Baston.cs",
               "DocumentMoniker": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Soluciones\\Solucion_H_P_1\\Class\\Equipo\\Baston.cs",
               "RelativeDocumentMoniker": "Class\\Equipo\\Baston.cs",
               "ToolTip": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Soluciones\\Solucion_H_P_1\\Class\\Equipo\\Baston.cs",
               "RelativeToolTip": "Class\\Equipo\\Baston.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAADwvwoAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA3wBMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T17:45:18.546Z"
+              "WhenOpened": "2025-07-21T17:45:18.546Z",
+              "EditorCaption": ""
             }
           ]
         }
