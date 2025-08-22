@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "Odb6//kd/48=",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\_POO\\Tets_1_Poo\\Tets_1_Poo.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "Odb6//kd/48=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\_POO\\Tets_1_Poo\\Tets_1_Poo.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> ffbac04138a85568f4d522e49aac8391c3104c35
 }
