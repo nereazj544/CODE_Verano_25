@@ -12,6 +12,7 @@ namespace Solucion_Biblioteca.Class
         private string apellido;
         private string nacionalidad; // Añadido adicional
 
+
         //Constructor
         public Autor (string name, string lastName, string nationality)
         {

@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Soluciones\\Solucion_Biblioteca\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10787AEC-B4A6-4292-AABD-74380F5DF3AA}|Solucion_Biblioteca.csproj|c:\\users\\nzjha\\desktop\\code\\code_verano_25\\code_csharp\\soluciones\\solucion_biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10787AEC-B4A6-4292-AABD-74380F5DF3AA}|Solucion_Biblioteca.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10787AEC-B4A6-4292-AABD-74380F5DF3AA}|Solucion_Biblioteca.csproj|c:\\users\\nzjha\\desktop\\code\\code_verano_25\\code_csharp\\soluciones\\solucion_biblioteca\\class\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10787AEC-B4A6-4292-AABD-74380F5DF3AA}|Solucion_Biblioteca.csproj|solutionrelative:class\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{10787AEC-B4A6-4292-AABD-74380F5DF3AA}|Solucion_Biblioteca.csproj|c:\\users\\nzjha\\desktop\\code\\code_verano_25\\code_csharp\\soluciones\\solucion_biblioteca\\class\\libros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10787AEC-B4A6-4292-AABD-74380F5DF3AA}|Solucion_Biblioteca.csproj|solutionrelative:class\\libros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10787AEC-B4A6-4292-AABD-74380F5DF3AA}|Solucion_Biblioteca.csproj|c:\\users\\nzjha\\desktop\\code\\code_verano_25\\code_csharp\\soluciones\\solucion_biblioteca\\class\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10787AEC-B4A6-4292-AABD-74380F5DF3AA}|Solucion_Biblioteca.csproj|solutionrelative:class\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{10787AEC-B4A6-4292-AABD-74380F5DF3AA}|Solucion_Biblioteca.csproj|c:\\users\\nzjha\\desktop\\code\\code_verano_25\\code_csharp\\soluciones\\solucion_biblioteca\\class\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10787AEC-B4A6-4292-AABD-74380F5DF3AA}|Solucion_Biblioteca.csproj|solutionrelative:class\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10787AEC-B4A6-4292-AABD-74380F5DF3AA}|Solucion_Biblioteca.csproj|c:\\users\\nzjha\\desktop\\code\\code_verano_25\\code_csharp\\soluciones\\solucion_biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10787AEC-B4A6-4292-AABD-74380F5DF3AA}|Solucion_Biblioteca.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -36,14 +36,14 @@
               "RelativeDocumentMoniker": "Class\\Libros.cs",
               "ToolTip": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Soluciones\\Solucion_Biblioteca\\Class\\Libros.cs",
               "RelativeToolTip": "Class\\Libros.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwDIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-17T14:24:58.98Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Biblioteca.cs",
               "DocumentMoniker": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Soluciones\\Solucion_Biblioteca\\Class\\Biblioteca.cs",
               "RelativeDocumentMoniker": "Class\\Biblioteca.cs",
@@ -51,33 +51,33 @@
               "RelativeToolTip": "Class\\Biblioteca.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T14:24:49.539Z"
+              "WhenOpened": "2025-07-17T14:24:49.539Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Autor.cs",
               "DocumentMoniker": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Soluciones\\Solucion_Biblioteca\\Class\\Autor.cs",
               "RelativeDocumentMoniker": "Class\\Autor.cs",
               "ToolTip": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Soluciones\\Solucion_Biblioteca\\Class\\Autor.cs",
               "RelativeToolTip": "Class\\Autor.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAwwCIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-17T14:24:10.941Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Soluciones\\Solucion_Biblioteca\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\nzjha\\Desktop\\CODE\\CODE_Verano_25\\CODE_CSharp\\Soluciones\\Solucion_Biblioteca\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T14:23:42.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T14:23:42.041Z"
             }
           ]
         }
